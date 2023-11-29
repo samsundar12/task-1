@@ -1,0 +1,21 @@
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+justify-items:center;
+    margin: 75px;
+    padding: 100px;
+    width: 400px;
+    border: 100px;
+    box-sizing: 50%;
+    
+
+
+    }
+    image{
+        margin: 25px;
+        padding: 25px;
+       
+        
+    }
